@@ -4,8 +4,8 @@ soyad = input("Soyadınızı girin: ")
 print("Tam adınız:", tam_ad)
 
 #2.İki sayının toplamı, farkı ve çarpımı
-x = 10
-y = 5
+x = 30
+y = 10
 print(x + y)
 print(x - y)
 print(x * y)
@@ -73,5 +73,6 @@ print("Birinci sayı ikinciden büyük mü?", birinci_buyuk_mu)
 sayi = int(input("Bir sayı girin: "))
 a = (sayi % 3 == 0) and (sayi % 5 == 0)
 print("Sayı hem 3'e hem de 5'e tam bölünüyor mu?", a)
+
 
 
